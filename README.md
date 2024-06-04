@@ -8,7 +8,7 @@ DCU-Net is a dual-channel U-shaped network designed to detect and locate image s
 - [Model Architecture](#model-architecture)
 - [Datasets](#datasets)
 - [Results](#results)
-- [Usage](#usage)
+- [Output](#output)
 - [Contributing](#contributing)
 - [License](#license)
 
