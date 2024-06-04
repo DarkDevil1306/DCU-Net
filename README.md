@@ -44,23 +44,6 @@ DCU-Net outperforms state-of-the-art methods in both accuracy and robustness. Ke
 
 The model demonstrates strong resistance to both Gaussian noise and JPEG compression, maintaining high detection performance even under challenging conditions.
 
-## Usage
-1. Prepare your dataset and place it in the `data` directory.
-2. Train the model:
-    ```bash
-    python train.py --config config.yaml
-    ```
-3. Evaluate the model:
-    ```bash
-    python evaluate.py --config config.yaml
-    ```
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License.
-
 ## Output
 ![image](https://github.com/DarkDevil1306/DCU-Net/assets/88668115/556b04f5-03a8-43c9-b3e6-da32912eaaf8)
 ![image](https://github.com/DarkDevil1306/DCU-Net/assets/88668115/7dd87093-dbd1-4b3a-91ff-d35eeaafd0e0)
@@ -68,3 +51,9 @@ This project is licensed under the MIT License.
 ![image](https://github.com/DarkDevil1306/DCU-Net/assets/88668115/ec6ac9fb-a41e-427d-9f3a-54fba6c35048)
 ![image](https://github.com/DarkDevil1306/DCU-Net/assets/88668115/eba8c9b3-fddf-4455-8582-11ed86652850)
 ---
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License.
