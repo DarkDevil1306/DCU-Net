@@ -61,7 +61,10 @@ Contributions are welcome! Please open an issue or submit a pull request.
 ## License
 This project is licensed under the MIT License.
 
+## Output
 ![image](https://github.com/DarkDevil1306/DCU-Net/assets/88668115/556b04f5-03a8-43c9-b3e6-da32912eaaf8)
-
-
+![image](https://github.com/DarkDevil1306/DCU-Net/assets/88668115/7dd87093-dbd1-4b3a-91ff-d35eeaafd0e0)
+![image](https://github.com/DarkDevil1306/DCU-Net/assets/88668115/bb3cb59a-bc7e-4e66-a30d-d0236a0836ea)
+![image](https://github.com/DarkDevil1306/DCU-Net/assets/88668115/ec6ac9fb-a41e-427d-9f3a-54fba6c35048)
+![image](https://github.com/DarkDevil1306/DCU-Net/assets/88668115/eba8c9b3-fddf-4455-8582-11ed86652850)
 ---
